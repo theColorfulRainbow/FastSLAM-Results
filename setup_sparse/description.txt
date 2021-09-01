@@ -1,0 +1,19 @@
+my_Robot.motion_noise: 5.0
+my_Robot.width: 1000.0
+my_Robot.height: 1000.0
+VARY_OBS_NOISE: 2
+REMOVE_LMS: 0
+fastSLAM.nr_particles: 100
+min_dist_var: 1.0
+max_dist_var: 1.0000000001
+min_angle_var: 0.0007402203300817018
+max_angle_var: 0.0007402204300817018
+particle.self.obs_noise: [[-0.13660592528572713, 0.0], [0.0, 0.0007402203300817018]]
+sim_time: 7973.549033164978
+robot_pos_mean_stdev: [46.1, 23.4]
+robot_pos_Q1Q2Q3: [0.0, 27.0, 44.3, 61.6, 113.8]
+lms_nr_max: 282
+lms_pred_mean_stdev: [39.8, 7.1]
+lms_pred_Q1Q2Q3: [6.7, 37.9, 43.2, 44.2, 44.9]
+lms_ewok_mean_stdev: [26.7, 15.2]
+lms_ewok_Q1Q2Q3: [0.3, 14.3, 25.1, 37.2, 89.9]
